@@ -1,5 +1,5 @@
-## RIC project page
-Goto https://wordart.github.io
+## WordArt Designer project page
+Goto https://github.com/AIGCDesignGroup/wordart.home
 
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
